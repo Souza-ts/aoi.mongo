@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "mongoose": "^8.3.2"
+  },
+  "name": "@aoijs/aoi.mongo",
+  "version": "1.2.2",
+  "description": "aoi.mongo - Allows storing of vars to mongoDB without conflicting with aoiDB!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hi\" to all"
+  },
+  "homepage": "https://github.com/Souza-ts/aoi.mongodb",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Souza-ts/aoi.mongodb.git"
+  },
+  "keywords": [
+    "aoi.mongo",
+    "@aoijs/aoi.mongo",
+    "mongo",
+    "aoi.js",
+    "aoi",
+    "dbd",
+    "dbd.js",
+    "db"
+  ],
+  "author": "NanotechPikachu",
+  "license": "MIT"
+}
